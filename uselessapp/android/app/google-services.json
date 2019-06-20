@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54564312916",
+    "firebase_url": "https://useless-app-3fb19.firebaseio.com",
+    "project_id": "useless-app-3fb19",
+    "storage_bucket": "useless-app-3fb19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54564312916:android:799e271092472e91",
+        "android_client_info": {
+          "package_name": "com.example.uselessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54564312916-unt1f8iurlifujsrgjv1f78ls6r5eota.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uselessapp",
+            "certificate_hash": "720e5a8179dadf26ad517d40022e15b871b2ab7e"
+          }
+        },
+        {
+          "client_id": "54564312916-1e7pc0j31erndg1pnngidlhaeldja1bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRj8Oquh3G2gVoFuYuj0F7ghLRLV1QkGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54564312916-1e7pc0j31erndg1pnngidlhaeldja1bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
